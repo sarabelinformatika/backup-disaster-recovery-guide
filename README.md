@@ -181,11 +181,9 @@ This repository is part of the **SARABEL Informatika Enterprise Infrastructure S
 
 ## Featured Articles
 
-- **Secure Backup with Synology NAS for SMBs**
-  https://sarabelinformatika.hu/blog/biztonsagos-adatmentes-synology-nas-sal-vedelem-a-kkv-k-adatainak
+- **[Secure Backup with Synology NAS for SMBs](https://sarabelinformatika.hu/blog/biztonsagos-adatmentes-synology-nas-sal-vedelem-a-kkv-k-adatainak)**
 
-- **Microsoft 365 Backup: Protect Your Business-Critical Data**
-  https://sarabelinformatika.hu/blog/microsoft-365-adatmentes-hogyan-vedje-meg-vallalkozasa-kritikus-adatait
+- **[Microsoft 365 Backup: Protect Your Business-Critical Data](https://sarabelinformatika.hu/blog/microsoft-365-adatmentes-hogyan-vedje-meg-vallalkozasa-kritikus-adatait)**
 
 ## In Development
 
