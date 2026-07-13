@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/backup-disaster-recovery-guide.jpeg" alt="Backup & Disaster Recovery Guide" width="100%">
+  <img src="images/backup-disaster-recovery-guide.jpg" alt="Backup & Disaster Recovery Guide" width="100%">
 </p>
 
 <h1 align="center">Backup & Disaster Recovery Guide</h1>
